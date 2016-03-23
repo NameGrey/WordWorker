@@ -19,6 +19,8 @@
 *.so
 *.so.*
 *.dylib
+*.suo
+*.obj
 
 # Executables
 *.exe
@@ -30,3 +32,8 @@
 
 # Debug files
 *.dSYM/
+
+# Folders
+bin
+obj
+packages
